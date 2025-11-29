@@ -117,7 +117,7 @@ src/
 
 ## 🙌 **Contributions**
 
-T👨‍💻 Author
+👨‍💻 Author
 
 Heri Hermansyah
 
