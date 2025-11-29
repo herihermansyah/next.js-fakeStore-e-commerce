@@ -61,52 +61,29 @@ Check the live demo here: https://fakestore-ecommerce-bice.vercel.app/
 ## 📸 **Preview Screenshots**
 
 ### Home Page
-
-```
 ![home Page](./screenshots/home.png)
-```
 
 ### Product Page
-
-```
 ![Product Page](./screenshots/productspage.png)
-```
 
 ### Product Detail
-
-```
 ![Product Detail](./screenshots/detailpage.png)
-```
 
 ### Cart Page
-
-```
 ![Cart Page](./screenshots/cartpage.png)
-```
 
 ### Category Page
-
-```
 ![Category Page](./screenshots/category.png)
-```
 
 ### Checkout Page
-
-```
 ![Checkout Page](./screenshots/checkoutpage.png)
-```
 
 ### Success Page
-
-```
 ![Checkout](./screenshots/succespage.png)
-```
 
 ### Responsive
 
-```
 ![Cart Page](./screenshots/responsive.png)
-```
 
 ---
 
