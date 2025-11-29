@@ -1,36 +1,152 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Next.js FakeStore E-Commerce**
 
-## Getting Started
+A full-featured frontend practice project built with **Next.js** and powered by **DummyJSON API**.
+This project focuses on e-commerce UI/UX, reusable components, dynamic routing, and cart management using React Context.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 **Tech Stack**
+
+- **Next.js**
+- **TailwindCSS**
+- **shadcn/ui**
+- **React Swiper**
+- **Axios**
+- **Lucide Icons**
+
+---
+
+## 📡 **API Source**
+
+Data is fetched from **DummyJSON Fake API**:
+[https://dummyjson.com/products](https://dummyjson.com/products)
+
+---
+
+## 🛒 **Main Features**
+
+- **Product Listing Page**
+- **Product Detail Page**
+- **Category-Based Products**
+- **Reusable Category Swiper**
+- **Search Product**
+- **Product Filter**
+- **Breadcrumb Auto Generator**
+- **Cart Page (Context API)**
+- **Dummy Checkout Flow**
+- **Dynamic Routing for Product Pages**
+
+---
+
+## 🎯 **Learning Focus**
+
+This project was built to explore and practice:
+
+- E-commerce UI styling with Tailwind & shadcn
+- Fetching + consuming Fake API data
+- Building a scalable **CartContext**
+- Implementing **dynamic routes** in Next.js
+- Creating reusable UI components
+
+---
+
+---
+
+🌐 Live Demo
+
+Check the live demo here: https://fakestore-ecommerce-bice.vercel.app/
+
+---
+
+## 📸 **Preview Screenshots**
+
+### Home Page
+
+```
+![home Page](/screenshots/home.png)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Product Page
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+![Product Page](/screenshots/productspage.png)
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Product Detail
 
-## Learn More
+```
+![Product Detail](/screenshots/detailpage.png)
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Cart Page
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+![Cart Page](/screenshots/cartpage.png)
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Category Page
 
-## Deploy on Vercel
+```
+![Category Page](/screenshots/category.png)
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Checkout Page
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```
+![Checkout Page](/screenshots/checkoutpage.png)
+```
+
+### Success Page
+
+```
+![Checkout](/screenshots/succespage.png)
+```
+
+### Responsive
+
+```
+![Cart Page](/screenshots/responsive.png)
+```
+
+---
+
+## 📦 **Installation**
+
+```bash
+git clone https://github.com/your-username/nextjs-fakestore-ecommerce.git
+cd nextjs-fakestore-ecommerce
+npm install
+npm run dev
+```
+
+---
+
+## 🧱 **Project Structure (Simplified)**
+
+```
+src/
+ ├─ app/
+ │   ├─ shop/
+ │   ├─ cart/
+ │   ├─ checkout/
+ │   └─ ...
+ ├─ components/
+ ├─ context/
+ ├─ lib/
+ └─ types/
+```
+
+---
+
+## 🙌 **Contributions**
+
+T👨‍💻 Author
+
+Heri Hermansyah
+
+🔗 LinkedIn: https://www.linkedin.com/in/heri-hermansyah/
+🔗 GitHub: https://github.com/herihermansyah
+
+📜 License
+
+This project is open-source and available under the MIT License.
